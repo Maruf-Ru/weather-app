@@ -1,3 +1,4 @@
+// CSS styling branch-e test korchi
 const cityInput = document.querySelector('#cityInput');
 const searchBtn = document.querySelector('#searchBtn');
 const weatherResult = document.querySelector('#weatherResult');
