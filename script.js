@@ -51,7 +51,7 @@ async function handleSearch() {
         return;
     }
 
-    weatherResult.textContent = 'Loading...';
+    weatherResult.textContent = 'khujchi...';
     searchBtn.disabled = true;
 
     try {
